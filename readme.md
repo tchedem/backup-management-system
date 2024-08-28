@@ -12,7 +12,7 @@ I take a moment to design this simple backup strategy
 
 They are several way to perform Backups (Full, Incremental, Differencial, etc...). The only one I cover here is the full backup process.
 
-But for other backup strategies, this is steel valid.
+But for other backup strategies, this is still valid.
 
 I abord 4 key points 
 

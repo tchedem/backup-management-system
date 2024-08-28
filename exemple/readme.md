@@ -1,0 +1,1 @@
+In `database-backup-scripts` folder, I'll use `MySQL` as DBMS
